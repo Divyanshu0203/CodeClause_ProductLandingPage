@@ -36,7 +36,7 @@ html, body, header, nav, ul, li, h1, h2, h3, p, form, input, textarea, button {
   }
   
   #hero h1 {
-    color: #000;
+    color: #fff;
     text-align: left;
     font-size: 3rem;
     margin-bottom: 1rem;
